@@ -7,7 +7,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: lightgray;
+  background-color: #C0C0C0;
 }
 
 code {
@@ -22,27 +22,4 @@ ul {
 }
 p{
   margin: 0;
-}
-.profile{
-  width: 200px;
-  margin: 20px;
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  background-color: white;
-}
-.description{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.stats{
-  display: flex;
-  gap: 20px;
-
-}
-.avatar{
-  width: 100px;
 }

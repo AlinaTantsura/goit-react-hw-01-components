@@ -14,10 +14,10 @@
 //     </div>
 //   );
 // };
-import Profile from "./Profile"
+import Profile from "./Profile/Profile"
 import user from "../jsonInfo/user.json"
 
-import Statistics from "./Statistics"
+import Statistics from "./Statistics/Statistics"
 import data from "../jsonInfo/data.json"
 
 import FriendList from "./FriendList"
