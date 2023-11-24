@@ -1,6 +1,6 @@
 .statistics{
     width: 350px;
-    margin: 20px;
+    margin: 20px auto 0;
     background-color: #F5F5F5;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 10px;
