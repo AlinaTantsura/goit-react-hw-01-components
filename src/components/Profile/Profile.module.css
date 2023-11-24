@@ -7,6 +7,7 @@
     background-color: #F5F5F5;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 10px;
+    overflow: hidden;
 }
 .description{
     display: flex;
@@ -58,12 +59,9 @@
     border-top: solid 1.5px #C0C0C0;
     border-right: solid 1.5px #C0C0C0;
 }
-.item:first-child{
-    border-bottom-left-radius: 10px;
-}
+
 .item:last-child{
     border-right: none;
-    border-bottom-right-radius: 10px;
 }
 
 .label{

@@ -4,6 +4,7 @@
     background-color: #F5F5F5;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 10px;
+    overflow: hidden;
 }
 .title{
    margin: 0;
@@ -29,9 +30,9 @@
 }
 .label{
     font-size: 15px;
-    color: #F5F5F5;
+    color: #000000;
 }
 .percentage{
     font-size: 20px;
-    color: #F5F5F5;
+    color: #000000;
 }
